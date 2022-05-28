@@ -1,0 +1,19 @@
+h2#header {
+    text-align: center;
+}
+
+.row {
+column-count: 2;}
+
+.pic {
+    height: 25vh;
+}
+
+/* Footer */ 
+.footer {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  width:100%;
+  font-size: medium;
+}
