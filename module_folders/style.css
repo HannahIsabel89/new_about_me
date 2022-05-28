@@ -1,0 +1,6 @@
+h2#header {
+    text-align: centre;
+    font-size: larger;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
